@@ -1,21 +1,20 @@
-# نظام دفع للباصات الداخلية
-**Closed-Loop Bus Fare Payment System** · التصنيف: متكامل (Full Stack)
+# Closed-Loop Bus Fare Payment System
+**Closed-Loop Bus Fare Payment System** · Classification: Full Stack
 
-> وثيقة تعريفية بالمشروع (المواصفات والتقنيات) — لا تتضمن الكود المصدري.
 > Project overview document — source code is not included.
 
-## نبذة عن المشروع
-نظام دفع للباصات الداخلية يعمل عبر الموبايل ويربط ببطاقات إلكترونية بطريقة مغلقة (جامعة أو شركة أو مدينة صغيرة) بمزيج من التطبيق وأجهزة الباص وواجهة ويب للإدارة.
+## Project overview
+A mobile-based fare payment system for internal buses that connects to electronic cards in a closed loop (university, company, or small town), combining a mobile app, on-bus devices, and a web-based administration interface.
 
-## أبرز النقاط
-- تطبيق موبايل وبطاقات إلكترونية مع شحن الرصيد
-- أجهزة داخل الباص للدفع بالتمرير
-- واجهة ويب لإدارة الخطوط والتعرفة والبطاقات والتقارير
+## Highlights
+- Mobile app and electronic cards with balance top-up
+- On-bus devices for swipe payment
+- Web interface to manage routes, fares, cards, and reports
 
-## الدور
-مطوّر Full Stack: الواجهة الأمامية والخدمات الخلفية وقواعد البيانات والنشر.
+## Role
+Full Stack Developer: front-end, backend services, databases, and deployment.
 
-## التقنيات المستخدمة
+## Technologies used
 Flutter, ASP.NET Core, NFC / RFID, SQL Server, Redis, React Admin, Docker
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).

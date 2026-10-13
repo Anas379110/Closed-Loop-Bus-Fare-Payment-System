@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — نظام دفع للباصات الداخلية
+# 🛠️ Technologies Used — Closed-Loop Bus Fare Payment System
 
 - Flutter
 - ASP.NET Core
